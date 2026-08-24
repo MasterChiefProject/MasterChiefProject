@@ -1,14 +1,14 @@
 # Daniel Adin
 
-### Software Engineer | B.Sc. Computer Science
+### B.Sc. Computer Science | Software Engineer | Game Developer | Mod Developer | Cyber Security Specialist
 
-Computer Science graduate and software engineer interested in building technically challenging software.
+Computer Science graduate and active programmer who's interested in building technically challenging software.
 
 I am particularly interested in systems programming, cybersecurity, game development, low-level software engineering, networking, and understanding how complex software works internally.
 
 I enjoy working on problems involving architecture, debugging, performance, reverse engineering, and building systems from the ground up.
 
-## Areas of Interest
+## Areas of 
 
 - Systems Programming
 - Cybersecurity
@@ -20,9 +20,9 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - Low-Level Development
 - Backend Development
 
-## Technical Skills
+## My Main Programmer's Equipment (Languages & Tools)
 
-### Main Languages
+### Languages
 - Assembly
 - C
 - C++
@@ -30,16 +30,6 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - Python
 - Java
 - JavaScript
-
-### Systems & Low-Level
-
-- OS/Windows/Linux/Mac API
-- OS/Windows/Linux/MAC Internals
-- Multithreading
-- Memory Management
-- Networking
-- Debugging
-- Reverse Engineering
 
 ### Cyber Dev-Tools
 
