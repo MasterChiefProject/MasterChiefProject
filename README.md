@@ -1,4 +1,4 @@
-# Your Name
+# Daniel Adin
 
 ### Software Engineer | B.Sc. Computer Science
 
@@ -22,8 +22,9 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 
 ## Technical Skills
 
-### Languages
-
+### Main Languages
+- Assembly
+- C
 - C++
 - C#
 - Python
@@ -43,7 +44,8 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 ### Game Development
 
 - Unreal Engine
-- Unity
+- Unity Engine
+- Cry Engine
 - Gameplay Programming
 - Game Architecture
 
@@ -53,12 +55,12 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - GitHub
 - Visual Studio
 - WinDbg
-- IDA
+- IDA Pro
 - Ghidra
 
-## Featured Projects
+## Game Projects
 
-### Project One
+### KnightCookie
 
 Short explanation of what the project does.
 
@@ -71,9 +73,9 @@ Highlights:
 - Interesting engineering problem
 - Something you designed yourself
 
-[View Project](PROJECT_URL)
+[Play KnightCookie](https://github.com/MasterChiefProject/KnightCookie)
 
-### Project Two
+### ScrabbleGame 
 
 Short explanation of what the project does.
 
@@ -86,9 +88,9 @@ Highlights:
 - Feature two
 - Feature three
 
-[View Project](PROJECT_URL)
+[Play ScrabbleGame](https://github.com/MasterChiefProject/ScrabbleGame)
 
-### Project Three
+### Nightmaze
 
 Short explanation of what the project does.
 
@@ -101,13 +103,60 @@ Highlights:
 - Feature two
 - Feature three
 
-[View Project](PROJECT_URL)
+[Play Nightmaze](https://github.com/MasterChiefProject/Nightmaze)
+
+### Realmaze
+
+Short explanation of what the project does.
+
+Technologies:
+C++, Unreal Engine
+
+Highlights:
+
+- Feature one
+- Feature two
+- Feature three
+
+[Play Realmaze](https://github.com/MasterChiefProject/Realmaze)
+
+### RGBQuest
+
+Short explanation of what the project does.
+
+Technologies:
+C++, Unreal Engine
+
+Highlights:
+
+- Feature one
+- Feature two
+- Feature three
+
+[Play RGBQuest](https://github.com/MasterChiefProject/RGBQuest)
+
+## Cyber Projects
+
+### SigmaTokens
+
+Short explanation of what the project does.
+
+Technologies:
+C++, Windows API, networking
+
+Highlights:
+
+- Interesting technical feature
+- Interesting engineering problem
+- Something you designed yourself
+
+[Deploy SigmaTokens](https://github.com/SigmaTokens)
 
 ## Education
 
 ### B.Sc. Computer Science
 
-University / College Name
+College: [Colman](https://www.colman.ac.il)
 
 Graduated: 2026
 
@@ -115,9 +164,9 @@ More academic information will be available here soon.
 
 ## Resume
 
-[View My Resume](RESUME_URL)
+[View My Resume](https://www.linkedin.com/in/masterchiefproject)
 
 ## Contact
 
-- LinkedIn: LINKEDIN_URL
-- Email: YOUR_EMAIL
+- LinkedIn: [Daniel Adin](https://www.linkedin.com/in/masterchiefproject)
+- Email: [adin.daniel@cs.colman.ac.il](adin.daniel@cs.colman.ac.il)
