@@ -33,47 +33,70 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 
 ### Systems & Low-Level
 
-- Windows API
-- Windows Internals
+- OS/Windows/Linux/Mac API
+- OS/Windows/Linux/MAC Internals
 - Multithreading
 - Memory Management
 - Networking
 - Debugging
 - Reverse Engineering
 
-### Game Development
+### Cyber Dev-Tools
 
-- Unreal Engine
-- Unity Engine
-- Cry Engine
-- Gameplay Programming
-- Game Architecture
+- idapro
+- ghidra
+- windbg
+- x64dbg
+- spartacus
+- kalilinux
+- sysinformer
+- winobj
+- procmon
+- virtualbox
+- vmware
+- cheatengine
+- regenny
+- reclass
+- hxd
+- dnspy
+- everything
+- agentransack
+- umodel
+- dbgview
+- strings
+- nasm
 
-### Tools
+### Game Dev-Tools
 
-- Git
-- GitHub
-- Visual Studio
-- WinDbg
-- IDA Pro
-- Ghidra
+- unrealengine
+- unityengine
+- cryengine
+- robloxstudio
+- obsstudio
+- blender
+- fmodel
+- uassetgui
+
+### Software Dev-Tools
+
+- git
+- github
+- visualstudio
+- visualcode
+- lazarus
+- chatgpt
+- notepad++
+
 
 ## Game Projects
 
 ### KnightCookie
 
-Short explanation of what the project does.
+A 2D mini-game I made with colleagues at the Colman devs group as a challenge to learn coding in JavaScript.
+It's a 2D array maze where you play as a cookie that is trying to arrive to its destination without being eaten.
 
-Technologies:
-C++, Windows API, networking
-
-Highlights:
-
-- Interesting technical feature
-- Interesting engineering problem
-- Something you designed yourself
-
-[Play KnightCookie](https://github.com/MasterChiefProject/KnightCookie)
+[Play KnightCookie](https://masterchiefproject.github.io/KnightCookie)
+[View Source]([KnightCookie](https://github.com/MasterChiefProject/KnightCookie))
 
 ### ScrabbleGame 
 
