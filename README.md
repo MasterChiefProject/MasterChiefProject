@@ -8,7 +8,7 @@ I am particularly interested in systems programming, cybersecurity, game develop
 
 I enjoy working on problems involving architecture, debugging, performance, reverse engineering, and building systems from the ground up.
 
-## Areas of 
+## Current areas I develop in:
 
 - Systems Programming
 - Cybersecurity
@@ -20,18 +20,17 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - Low-Level Development
 - Backend Development
 
-## My Main Programmer's Equipment (Languages & Tools)
-
-### Languages
+### Current languages I code with:
 - Assembly
 - C
 - C++
+- Rust
 - C#
 - Python
 - Java
 - JavaScript
 
-### Cyber Dev-Tools
+### Current Cyber Dev-Tools I reverse with:
 
 - idapro
 - ghidra
@@ -56,8 +55,9 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - strings
 - nasm
 
-### Game Dev-Tools
+### Current Game Dev-Tools I build with:
 
+- godotengine
 - unrealengine
 - unityengine
 - cryengine
@@ -67,7 +67,7 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - fmodel
 - uassetgui
 
-### Software Dev-Tools
+### Current Software Dev-Tools I compile with:
 
 - git
 - github
@@ -75,14 +75,22 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - visualcode
 - lazarus
 - chatgpt
+- gemini
 - notepad++
 
+## Cyber Projects
+
+### SigmaTokens
+
+Short explanation of what the project does.
+
+[Deploy SigmaTokens](https://github.com/SigmaTokens)
 
 ## Game Projects
 
 ### KnightCookie
 
-A 2D mini-game I made with colleagues at the Colman devs group as a challenge to learn coding in JavaScript.
+A 2D mini-game I made with colleagues at the Colman devs club as a challenge to learn coding in JavaScript.
 It's a 2D array maze where you play as a cookie that is trying to arrive to its destination without being eaten.
 
 [Play KnightCookie](https://masterchiefproject.github.io/KnightCookie)
@@ -92,29 +100,11 @@ It's a 2D array maze where you play as a cookie that is trying to arrive to its 
 
 Short explanation of what the project does.
 
-Technologies:
-C#, Unity
-
-Highlights:
-
-- Feature one
-- Feature two
-- Feature three
-
 [Play ScrabbleGame](https://github.com/MasterChiefProject/ScrabbleGame)
 
 ### Nightmaze
 
 Short explanation of what the project does.
-
-Technologies:
-C++, Unreal Engine
-
-Highlights:
-
-- Feature one
-- Feature two
-- Feature three
 
 [Play Nightmaze](https://github.com/MasterChiefProject/Nightmaze)
 
@@ -122,48 +112,13 @@ Highlights:
 
 Short explanation of what the project does.
 
-Technologies:
-C++, Unreal Engine
-
-Highlights:
-
-- Feature one
-- Feature two
-- Feature three
-
 [Play Realmaze](https://github.com/MasterChiefProject/Realmaze)
 
 ### RGBQuest
 
 Short explanation of what the project does.
 
-Technologies:
-C++, Unreal Engine
-
-Highlights:
-
-- Feature one
-- Feature two
-- Feature three
-
 [Play RGBQuest](https://github.com/MasterChiefProject/RGBQuest)
-
-## Cyber Projects
-
-### SigmaTokens
-
-Short explanation of what the project does.
-
-Technologies:
-C++, Windows API, networking
-
-Highlights:
-
-- Interesting technical feature
-- Interesting engineering problem
-- Something you designed yourself
-
-[Deploy SigmaTokens](https://github.com/SigmaTokens)
 
 ## Education
 
@@ -173,7 +128,7 @@ College: [Colman](https://www.colman.ac.il)
 
 Graduated: 2026
 
-More academic information will be available here soon.
+[View My Degree Certificate](https://www.linkedin.com/in/masterchiefproject)
 
 ## Resume
 
