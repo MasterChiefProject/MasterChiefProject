@@ -18,7 +18,7 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - Windows Internals
 - Networking
 - Low-Level Development
-- Backend Development
+- Fullstack Development
 
 ### Current languages I code with:
 - Assembly
