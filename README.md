@@ -57,7 +57,6 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - unityengine
 - cryengine
 - robloxstudio
-- obsstudio
 - blender
 - fmodel
 - uassetgui
