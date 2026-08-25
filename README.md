@@ -73,6 +73,7 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - notepad++
 - chatgpt
 - gemini
+- qwen
 
 ## Cyber Projects
 
