@@ -1,6 +1,6 @@
 # Daniel Adin
 
-### B.Sc. Computer Science | Software Engineer | Game Developer | Mod Developer | Cyber Security Specialist
+### B.Sc. Computer Science | Software Engineer | Game Developer | Mod Developer | Cybersecurity Specialist
 
 Computer Science graduate and active programmer who's interested in building technically challenging software.
 
@@ -18,7 +18,7 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - Windows Internals
 - Networking
 - Low-Level Development
-- Fullstack Development
+- Full-Stack Development
 
 ### Current languages I code with:
 - Assembly
