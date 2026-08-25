@@ -48,12 +48,7 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - reclass
 - hxd
 - dnspy
-- everything
 - agentransack
-- umodel
-- dbgview
-- strings
-- nasm
 
 ### Current Game Dev-Tools I build with:
 
@@ -66,6 +61,7 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - blender
 - fmodel
 - uassetgui
+- umodel
 
 ### Current Software Dev-Tools I compile with:
 
@@ -74,9 +70,10 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - visualstudio
 - visualcode
 - lazarus
+- nasm
+- notepad++
 - chatgpt
 - gemini
-- notepad++
 
 ## Cyber Projects
 
@@ -129,8 +126,6 @@ College: [Colman](https://www.colman.ac.il)
 Graduated: 2026
 
 [View My Degree Certificate](https://www.linkedin.com/in/masterchiefproject)
-
-## Resume
 
 [View My Resume](https://www.linkedin.com/in/masterchiefproject)
 
