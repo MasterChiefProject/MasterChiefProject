@@ -20,31 +20,27 @@
 
 </div>
 
-```text
 ╔══════════════════════════════════[ MISSION PROFILE ]══════════════════════════════════╗
 ║  ENGINEER   Daniel Adin                                                            ║
 ║  SPECIALTY  Systems • Security • Game Development • Low-Level Engineering          ║
 ║  DIRECTIVE  Understand complex software deeply, then build it better.              ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════╝
-```
 
 Computer Science graduate and active programmer focused on technically challenging software.
 
-My work spans **systems programming, cybersecurity, game development, reverse engineering, networking, Windows internals, full-stack development, architecture, debugging, and performance engineering**. I am especially interested in understanding how complex software behaves internally and in building systems from the ground up.
+My work spans systems programming, cybersecurity, game development, reverse engineering, networking, Windows internals, full-stack development, architecture, debugging, and performance engineering. I am especially interested in understanding how complex software behaves internally and in building systems from the ground up.
 
----
-
-## `01 // SYSTEM LOADOUT`
+01 // SYSTEM LOADOUT
 
 <div align="center">
 
-### Core Languages
+Core Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,cs,py,java,js&theme=dark" alt="Programming languages"/>
 
 <br/><br/>
 
-### Engineering Platforms
+Engineering Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,unity,unreal,godot,blender&theme=dark" alt="Engineering platforms"/>
 
@@ -54,7 +50,7 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 <summary><b>CYBER / REVERSE-ENGINEERING TOOLCHAIN</b></summary>
 <br/>
 
-`IDA Pro` · `Ghidra` · `WinDbg` · `x64dbg` · `Spartacus` · `Kali Linux` · `System Informer` · `WinObj` · `Procmon` · `VirtualBox` · `VMware` · `Cheat Engine` · `ReGenny` · `ReClass` · `HxD` · `dnSpy` · `Agent Ransack`
+IDA Pro · Ghidra · WinDbg · x64dbg · Spartacus · Kali Linux · System Informer · WinObj · Procmon · VirtualBox · VMware · Cheat Engine · ReGenny · ReClass · HxD · dnSpy · Agent Ransack
 
 </details>
 
@@ -62,7 +58,7 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 <summary><b>GAME DEVELOPMENT TOOLCHAIN</b></summary>
 <br/>
 
-`Godot` · `Unreal Engine` · `Unity` · `CryEngine` · `Roblox` · `Blender` · `FModel` · `UAssetGUI` · `UModel`
+Godot · Unreal Engine · Unity · CryEngine · Roblox · Blender · FModel · UAssetGUI · UModel
 
 </details>
 
@@ -70,13 +66,11 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 <summary><b>SOFTWARE DEVELOPMENT TOOLCHAIN</b></summary>
 <br/>
 
-`Git` · `GitHub` · `Visual Studio` · `Visual Studio Code` · `Lazarus` · `NASM` · `Notepad++` · `ChatGPT` · `Gemini` · `Qwen`
+Git · GitHub · Visual Studio · Visual Studio Code · Lazarus · NASM · Notepad++ · ChatGPT · Gemini · Qwen
 
 </details>
 
----
-
-## `02 // PUBLIC OPERATIONS`
+02 // PUBLIC OPERATIONS
 
 <table>
 <tr>
@@ -151,18 +145,14 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 </tr>
 </table>
 
----
+03 // CLASSIFIED PROGRAM
 
-## `03 // CLASSIFIED PROGRAM`
-
-> [!NOTE]
-> **MasterCheats** is a private modding project focused on experimental mod menus and private-server tooling for video games.
+[!NOTE]
+MasterCheats is a private modding project focused on experimental mod menus and private-server tooling for video games.
 
 <a href="https://github.com/Master-Cheats"><img src="https://img.shields.io/badge/FOLLOW-MASTERCHEATS-C89B3C?style=for-the-badge&labelColor=0B1110" alt="Follow MasterCheats"/></a>
 
----
-
-## `04 // SYSTEM TELEMETRY`
+04 // SYSTEM TELEMETRY
 
 <div align="center">
 
@@ -186,22 +176,16 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 
 </div>
 
----
+05 // EDUCATION RECORD
 
-## `05 // EDUCATION RECORD`
-
-```text
 DEGREE       B.Sc. Computer Science
 INSTITUTION  College of Management Academic Studies (Colman)
 GRADUATED    2026
-```
 
 <a href="https://www.linkedin.com/in/masterchiefproject"><img src="https://img.shields.io/badge/DEGREE-CERTIFICATE-A7C957?style=flat-square&labelColor=0B1110" alt="Degree certificate"/></a>
 <a href="https://www.linkedin.com/in/masterchiefproject"><img src="https://img.shields.io/badge/VIEW-RESUME-778A35?style=flat-square&labelColor=0B1110" alt="Resume"/></a>
 
----
-
-## `06 // COMMS`
+06 // COMMS
 
 <div align="center">
 
@@ -214,11 +198,9 @@ GRADUATED    2026
 
 <br/><br/>
 
-```text
 > CONNECTION ESTABLISHED
 > CHANNEL SECURE
 > READY FOR THE NEXT MISSION
-```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1110,50:263517,100:91A94B" alt="Profile footer"/>
 
