@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0B1110,45:263517,100:91A94B&text=DANIEL%20ADIN&fontColor=1F8A3B&fontSize=48&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20GAME%20DEVELOPER%20%7C%20CYBERSECURITY&descAlignY=61&descSize=15&animation=fadeIn" alt="Daniel Adin profile header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0B1110,45:263517,100:91A94B&text=DANIEL%20ADIN&fontColor=A7C957&fontSize=48&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20GAME%20DEVELOPER%20%7C%20CYBERSECURITY&descAlignY=61&descSize=15&animation=fadeIn" alt="Daniel Adin profile header"/>
 
 <a href="https://github.com/MasterChiefProject">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-A7C957?style=for-the-badge&labelColor=0B1110" alt="Status online"/>
@@ -166,16 +166,23 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=MasterChiefProject&show_icons=true&hide_border=true&bg_color=0B1110&title_color=A7C957&icon_color=C89B3C&text_color=D7E2CF&ring_color=A7C957" alt="GitHub statistics"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterChiefProject&layout=compact&hide_border=true&bg_color=0B1110&title_color=A7C957&text_color=D7E2CF&langs_count=8" alt="Top languages"/>
+<img src="https://img.shields.io/github/followers/MasterChiefProject?style=for-the-badge&logo=github&logoColor=E6F0D6&label=FOLLOWERS&labelColor=0B1110&color=A7C957" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/last-commit/MasterChiefProject/RGBQuest?style=for-the-badge&logo=github&logoColor=E6F0D6&label=RGBQUEST%20SYNC&labelColor=0B1110&color=778A35" alt="RGBQuest last commit"/>
+<img src="https://img.shields.io/github/last-commit/MasterChiefProject/Realmaze?style=for-the-badge&logo=github&logoColor=E6F0D6&label=REALMAZE%20SYNC&labelColor=0B1110&color=778A35" alt="Realmaze last commit"/>
+<img src="https://img.shields.io/github/last-commit/MasterChiefProject/Nightmaze?style=for-the-badge&logo=github&logoColor=E6F0D6&label=NIGHTMAZE%20SYNC&labelColor=0B1110&color=778A35" alt="Nightmaze last commit"/>
 
-<br/>
+<br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=MasterChiefProject&hide_border=true&background=0B1110&ring=A7C957&fire=C89B3C&currStreakLabel=A7C957&sideLabels=D7E2CF&currStreakNum=E6F0D6&sideNums=E6F0D6&dates=7D8B80" alt="GitHub contribution streak"/>
 
-<br/>
+<br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=MasterChiefProject&bg_color=0B1110&color=A7C957&line=C89B3C&point=E6F0D6&area=true&area_color=34441F&hide_border=true" alt="GitHub contribution activity graph"/>
+<a href="https://github.com/MasterChiefProject?tab=repositories">
+  <img src="https://img.shields.io/badge/OPEN-PUBLIC%20REPOSITORIES-A7C957?style=for-the-badge&logo=github&logoColor=E6F0D6&labelColor=0B1110" alt="Open public repositories"/>
+</a>
+<a href="https://github.com/MasterChiefProject">
+  <img src="https://img.shields.io/badge/VIEW-LIVE%20CONTRIBUTION%20GRAPH-C89B3C?style=for-the-badge&logo=github&logoColor=E6F0D6&labelColor=0B1110" alt="View live GitHub contribution graph"/>
+</a>
 
 </div>
 
