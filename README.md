@@ -75,47 +75,52 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - gemini
 - qwen
 
-## Cyber Projects
-
-### SigmaTokens
-
-Short explanation of what the project does.
-
-[Deploy SigmaTokens](https://github.com/SigmaTokens)
-
 ## Game Projects
 
 ### KnightCookie
 
-A 2D mini-game I made with colleagues at the Colman devs club as a challenge to learn coding in JavaScript.
-It's a 2D array maze where you play as a cookie that is trying to arrive to its destination without being eaten.
+Very short
 
+[View ColmanDevClub Post](https://www.linkedin.com/posts/colmandevclub_preview-ugcPost-7019324923282108416-8BDd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiNfNYB25QAVZ0URO48nsZeo04WUiyr_I0)
 [Play KnightCookie](https://masterchiefproject.github.io/KnightCookie)
-[View Source]([KnightCookie](https://github.com/MasterChiefProject/KnightCookie))
+[View Source]([KnightCookie](https://github.com/MasterChiefProject/KnightCookie)
 
-### ScrabbleGame 
+### Scrabble 
 
-Short explanation of what the project does.
+Very short explanation of what the project does.
 
-[Play ScrabbleGame](https://github.com/MasterChiefProject/ScrabbleGame)
+[Play Scrabble](https://github.com/MasterChiefProject/Scrabble)
+[View Source](https://github.com/MasterChiefProject/Scrabble)
 
 ### Nightmaze
 
-Short explanation of what the project does.
+Very short explanation of what the project does.
 
 [Play Nightmaze](https://github.com/MasterChiefProject/Nightmaze)
-
+[View Source](https://github.com/MasterChiefProject/Nightmaze)
 ### Realmaze
 
-Short explanation of what the project does.
+Very short explanation of what the project does.
 
 [Play Realmaze](https://github.com/MasterChiefProject/Realmaze)
+[View Source](https://github.com/MasterChiefProject/Realmaze)
 
 ### RGBQuest
 
-Short explanation of what the project does.
+Very short explanation of what the project does.
 
 [Play RGBQuest](https://github.com/MasterChiefProject/RGBQuest)
+[View Source](https://github.com/MasterChiefProject/RGBQuest)
+
+## Cyber Projects
+
+### SigmaTokens
+
+Very short explanation of what the project does.
+
+[Deploy SigmaTokens](https://github.com/SigmaTokens)
+[View Manager Source](https://github.com/SigmaTokens/Sigma-Manager)
+[View Agent Source](https://github.com/SigmaTokens/Sigma-Agent)
 
 ## Education
 
