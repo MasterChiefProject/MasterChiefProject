@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0B1110,45:263517,100:91A94B&text=DANIEL%20ADIN&fontColor=E6F0D6&fontSize=48&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20GAME%20DEVELOPER%20%7C%20CYBERSECURITY&descAlignY=61&descSize=15&animation=fadeIn" alt="Daniel Adin profile header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:A7C957,45:263517,100:91A94B&text=DANIEL%20ADIN&fontColor=E6F0D6&fontSize=48&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20GAME%20DEVELOPER%20%7C%20CYBERSECURITY&descAlignY=61&descSize=15&animation=fadeIn" alt="Daniel Adin profile header"/>
 
 <a href="https://github.com/MasterChiefProject">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-A7C957?style=for-the-badge&labelColor=0B1110" alt="Status online"/>
