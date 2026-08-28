@@ -1,147 +1,218 @@
-# Daniel Adin
+<!--
+  MasterChiefProject profile README
+  Futuristic tactical-HUD presentation.
+  Dynamic images are rendered by public README widget services and require no custom GitHub Actions.
+-->
 
-### B.Sc. Computer Science | Software Engineer | Game Developer | Mod Developer | Cybersecurity Specialist
+<div align="center">
 
-Computer Science graduate and active programmer who's interested in building technically challenging software.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0B1110,45:263517,100:91A94B&text=DANIEL%20ADIN&fontColor=E6F0D6&fontSize=48&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20GAME%20DEVELOPER%20%7C%20CYBERSECURITY&descAlignY=61&descSize=15&animation=fadeIn" alt="Daniel Adin profile header"/>
 
-I am particularly interested in systems programming, cybersecurity, game development, low-level software engineering, networking, and understanding how complex software works internally.
+<a href="https://github.com/MasterChiefProject">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-A7C957?style=for-the-badge&labelColor=0B1110" alt="Status online"/>
+</a>
+<img src="https://img.shields.io/badge/B.Sc.-COMPUTER%20SCIENCE-A7C957?style=for-the-badge&labelColor=0B1110" alt="B.Sc. Computer Science"/>
+<img src="https://komarev.com/ghpvc/?username=MasterChiefProject&style=for-the-badge&color=556B2F&label=HUD+SCANS" alt="Profile views"/>
 
-I enjoy working on problems involving architecture, debugging, performance, reverse engineering, and building systems from the ground up.
+<br/><br/>
 
-## Current areas I develop in:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=A7C957&center=true&vCenter=true&width=900&lines=SYSTEMS+PROGRAMMING+%2F%2F+CYBERSECURITY;GAME+ENGINEERING+%2F%2F+LOW-LEVEL+SOFTWARE;REVERSE+ENGINEERING+%2F%2F+WINDOWS+INTERNALS;ARCHITECTURE+%2F%2F+DEBUGGING+%2F%2F+PERFORMANCE" alt="Animated engineering focus"/>
 
-- Systems Programming
-- Cybersecurity
-- Game Development
-- Software Engineering
-- Reverse Engineering
-- Windows Internals
-- Networking
-- Low-Level Development
-- Full-Stack Development
+</div>
 
-### Current languages I code with:
-- Assembly
-- C
-- C++
-- Rust
-- C#
-- Python
-- Java
-- JavaScript
+```text
+╔══════════════════════════════════[ MISSION PROFILE ]══════════════════════════════════╗
+║  ENGINEER   Daniel Adin                                                            ║
+║  SPECIALTY  Systems • Security • Game Development • Low-Level Engineering          ║
+║  DIRECTIVE  Understand complex software deeply, then build it better.              ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
+```
 
-### Current Cyber Dev-Tools I reverse with:
+Computer Science graduate and active programmer focused on technically challenging software.
 
-- idapro
-- ghidra
-- windbg
-- x64dbg
-- spartacus
-- kalilinux
-- sysinformer
-- winobj
-- procmon
-- virtualbox
-- vmware
-- cheatengine
-- regenny
-- reclass
-- hxd
-- dnspy
-- agentransack
+My work spans **systems programming, cybersecurity, game development, reverse engineering, networking, Windows internals, full-stack development, architecture, debugging, and performance engineering**. I am especially interested in understanding how complex software behaves internally and in building systems from the ground up.
 
-### Current Game Dev-Tools I build with:
+---
 
-- godotengine
-- unrealengine
-- unityengine
-- cryengine
-- robloxengine
-- blender
-- fmodel
-- uassetgui
-- umodel
+## `01 // SYSTEM LOADOUT`
 
-### Current Software Dev-Tools I compile with:
+<div align="center">
 
-- git
-- github
-- visualstudio
-- visualcode
-- lazarus
-- nasm
-- notepad++
-- chatgpt
-- gemini
-- qwen
+### Core Languages
 
-## Public Projects
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,cs,py,java,js&theme=dark" alt="Programming languages"/>
 
-### SigmaTokens
+<br/><br/>
 
-Cybersecurity honeytoken platform with a central manager and endpoint agents for deploying and monitoring decoy assets, coordinating agents, and generating alerts when honeytokens are accessed.
+### Engineering Platforms
 
-[Follow SigmaTokens](https://github.com/SigmaTokens)  
-[View Manager Source](https://github.com/SigmaTokens/Sigma-Manager)  
-[View Agent Source](https://github.com/SigmaTokens/Sigma-Agent)
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,unity,unreal,godot,blender&theme=dark" alt="Engineering platforms"/>
 
-### RGBQuest
+</div>
 
-Unity 6 three-stage first-person puzzle adventure combining RGB cube physics, pressure-plate puzzles, portals, combat, pickups, and NavMesh-driven ghosts.
+<details>
+<summary><b>CYBER / REVERSE-ENGINEERING TOOLCHAIN</b></summary>
+<br/>
 
-[Play RGBQuest](https://masterchiefproject.github.io/RGBQuest/)  
-[View Source](https://github.com/MasterChiefProject/RGBQuest)
+`IDA Pro` · `Ghidra` · `WinDbg` · `x64dbg` · `Spartacus` · `Kali Linux` · `System Informer` · `WinObj` · `Procmon` · `VirtualBox` · `VMware` · `Cheat Engine` · `ReGenny` · `ReClass` · `HxD` · `dnSpy` · `Agent Ransack`
 
-### KnightCookie
+</details>
 
-JavaScript maze adventure with hidden encounters, collectible upgrades, automatic combat, deterministic game logic, and persistent browser saves.
+<details>
+<summary><b>GAME DEVELOPMENT TOOLCHAIN</b></summary>
+<br/>
 
-[View ColmanDevClub Post](https://www.linkedin.com/posts/colmandevclub_preview-ugcPost-7019324923282108416-8BDd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiNfNYB25QAVZ0URO48nsZeo04WUiyr_I0)  
-[Play KnightCookie](https://masterchiefproject.github.io/KnightCookie/)  
-[View Source](https://github.com/MasterChiefProject/KnightCookie)
+`Godot` · `Unreal Engine` · `Unity` · `CryEngine` · `Roblox` · `Blender` · `FModel` · `UAssetGUI` · `UModel`
 
-### Nightmaze
+</details>
 
-Unity 6 first-person escape-horror game with traps, portals, moving platforms, environmental audio, and scene-based death and victory flow.
+<details>
+<summary><b>SOFTWARE DEVELOPMENT TOOLCHAIN</b></summary>
+<br/>
 
-[Play Nightmaze](https://masterchiefproject.github.io/Nightmaze/)  
-[View Source](https://github.com/MasterChiefProject/Nightmaze)
+`Git` · `GitHub` · `Visual Studio` · `Visual Studio Code` · `Lazarus` · `NASM` · `Notepad++` · `ChatGPT` · `Gemini` · `Qwen`
 
-### Realmaze
+</details>
 
-Unity 6 first-person escape game set in a realistic outdoor maze, with collectible-driven progression, hostile zombies, gated objectives, and a WebGL-optimized browser build.
+---
 
-[Play Realmaze](https://masterchiefproject.github.io/Realmaze/)  
-[View Source](https://github.com/MasterChiefProject/Realmaze)
+## `02 // PUBLIC OPERATIONS`
 
-### Scrabble
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Java 17 Scrabble engine with multiplayer gameplay, board and scoring validation, dictionary checks, a TCP dictionary service, and a browser-playable adaptation.
+<h3>🛡️ SigmaTokens</h3>
+<p><strong>CYBER // HONEYTOKEN DEFENSE PLATFORM</strong></p>
+<p>Central manager and endpoint-agent system for deploying and monitoring decoy assets, coordinating agents, and generating alerts when honeytokens are accessed.</p>
 
-[Play Scrabble](https://masterchiefproject.github.io/Scrabble/)  
-[View Source](https://github.com/MasterChiefProject/Scrabble)
+<a href="https://github.com/SigmaTokens"><img src="https://img.shields.io/badge/FOLLOW-ORGANIZATION-A7C957?style=flat-square&labelColor=0B1110" alt="Follow SigmaTokens"/></a>
+<a href="https://github.com/SigmaTokens/Sigma-Manager"><img src="https://img.shields.io/badge/SOURCE-MANAGER-778A35?style=flat-square&labelColor=0B1110" alt="Manager source"/></a>
+<a href="https://github.com/SigmaTokens/Sigma-Agent"><img src="https://img.shields.io/badge/SOURCE-AGENT-778A35?style=flat-square&labelColor=0B1110" alt="Agent source"/></a>
 
-## Private Projects
+</td>
+<td width="50%" valign="top">
 
-### MasterCheats
+<h3>🟩 RGBQuest</h3>
+<p><strong>UNITY // FIRST-PERSON PUZZLE ADVENTURE</strong></p>
+<p>Three-stage Unity 6 adventure combining RGB cube physics, pressure-plate puzzles, portals, combat, pickups, and NavMesh-driven ghosts.</p>
 
-MasterCheats is a modding project which creates fun mod menus and private servers for video games.
+<a href="https://masterchiefproject.github.io/RGBQuest/"><img src="https://img.shields.io/badge/PLAY-WEBGL-A7C957?style=flat-square&labelColor=0B1110" alt="Play RGBQuest"/></a>
+<a href="https://github.com/MasterChiefProject/RGBQuest"><img src="https://img.shields.io/badge/VIEW-SOURCE-778A35?style=flat-square&labelColor=0B1110" alt="RGBQuest source"/></a>
 
-[Follow MasterCheats](https://github.com/Master-Cheats)  
+</td>
+</tr>
 
-## Education
+<tr>
+<td width="50%" valign="top">
 
-### B.Sc. Computer Science
+<h3>🍪 KnightCookie</h3>
+<p><strong>JAVASCRIPT // DETERMINISTIC MAZE ADVENTURE</strong></p>
+<p>Hidden encounters, collectible upgrades, automatic combat, deterministic game logic, persistent browser saves, and automated rules testing.</p>
 
-College: [Colman](https://www.colman.ac.il)
+<a href="https://masterchiefproject.github.io/KnightCookie/"><img src="https://img.shields.io/badge/PLAY-BROWSER-A7C957?style=flat-square&labelColor=0B1110" alt="Play KnightCookie"/></a>
+<a href="https://github.com/MasterChiefProject/KnightCookie"><img src="https://img.shields.io/badge/VIEW-SOURCE-778A35?style=flat-square&labelColor=0B1110" alt="KnightCookie source"/></a>
+<a href="https://www.linkedin.com/posts/colmandevclub_preview-ugcPost-7019324923282108416-8BDd"><img src="https://img.shields.io/badge/FEATURED-COLMAN%20DEV%20CLUB-C89B3C?style=flat-square&labelColor=0B1110" alt="Colman Dev Club feature"/></a>
 
-Graduated: 2026
+</td>
+<td width="50%" valign="top">
 
-[View My Degree Certificate](https://www.linkedin.com/in/masterchiefproject)
+<h3>🌑 Nightmaze</h3>
+<p><strong>UNITY // ESCAPE HORROR</strong></p>
+<p>First-person escape-horror game with traps, portals, moving platforms, environmental audio, and scene-based death and victory flow.</p>
 
-[View My Resume](https://www.linkedin.com/in/masterchiefproject)
+<a href="https://masterchiefproject.github.io/Nightmaze/"><img src="https://img.shields.io/badge/PLAY-WEBGL-A7C957?style=flat-square&labelColor=0B1110" alt="Play Nightmaze"/></a>
+<a href="https://github.com/MasterChiefProject/Nightmaze"><img src="https://img.shields.io/badge/VIEW-SOURCE-778A35?style=flat-square&labelColor=0B1110" alt="Nightmaze source"/></a>
 
-## Contact
+</td>
+</tr>
 
-- LinkedIn: [Daniel Adin](https://www.linkedin.com/in/masterchiefproject)
-- Email: [adin.daniel@cs.colman.ac.il](mailto:adin.daniel@cs.colman.ac.il)
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧭 Realmaze</h3>
+<p><strong>UNITY // EXPLORATION &amp; ESCAPE</strong></p>
+<p>First-person outdoor maze with collectible-driven progression, hostile zombies, gated objectives, and a performance-tuned WebGL deployment.</p>
+
+<a href="https://masterchiefproject.github.io/Realmaze/"><img src="https://img.shields.io/badge/PLAY-WEBGL-A7C957?style=flat-square&labelColor=0B1110" alt="Play Realmaze"/></a>
+<a href="https://github.com/MasterChiefProject/Realmaze"><img src="https://img.shields.io/badge/VIEW-SOURCE-778A35?style=flat-square&labelColor=0B1110" alt="Realmaze source"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🔤 Scrabble</h3>
+<p><strong>JAVA // MULTIPLAYER WORD ENGINE</strong></p>
+<p>Java 17 Scrabble engine with multiplayer rules, board and scoring validation, dictionary checks, a TCP dictionary service, and a browser-playable adaptation.</p>
+
+<a href="https://masterchiefproject.github.io/Scrabble/"><img src="https://img.shields.io/badge/PLAY-BROWSER-A7C957?style=flat-square&labelColor=0B1110" alt="Play Scrabble"/></a>
+<a href="https://github.com/MasterChiefProject/Scrabble"><img src="https://img.shields.io/badge/VIEW-SOURCE-778A35?style=flat-square&labelColor=0B1110" alt="Scrabble source"/></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03 // CLASSIFIED PROGRAM`
+
+> [!NOTE]
+> **MasterCheats** is a private modding project focused on experimental mod menus and private-server tooling for video games.
+
+<a href="https://github.com/Master-Cheats"><img src="https://img.shields.io/badge/FOLLOW-MASTERCHEATS-C89B3C?style=for-the-badge&labelColor=0B1110" alt="Follow MasterCheats"/></a>
+
+---
+
+## `04 // SYSTEM TELEMETRY`
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=MasterChiefProject&show_icons=true&hide_border=true&bg_color=0B1110&title_color=A7C957&icon_color=C89B3C&text_color=D7E2CF&ring_color=A7C957" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterChiefProject&layout=compact&hide_border=true&bg_color=0B1110&title_color=A7C957&text_color=D7E2CF&langs_count=8" alt="Top languages"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=MasterChiefProject&hide_border=true&background=0B1110&ring=A7C957&fire=C89B3C&currStreakLabel=A7C957&sideLabels=D7E2CF&currStreakNum=E6F0D6&sideNums=E6F0D6&dates=7D8B80" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=MasterChiefProject&bg_color=0B1110&color=A7C957&line=C89B3C&point=E6F0D6&area=true&area_color=34441F&hide_border=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## `05 // EDUCATION RECORD`
+
+```text
+DEGREE       B.Sc. Computer Science
+INSTITUTION  College of Management Academic Studies (Colman)
+GRADUATED    2026
+```
+
+<a href="https://www.linkedin.com/in/masterchiefproject"><img src="https://img.shields.io/badge/DEGREE-CERTIFICATE-A7C957?style=flat-square&labelColor=0B1110" alt="Degree certificate"/></a>
+<a href="https://www.linkedin.com/in/masterchiefproject"><img src="https://img.shields.io/badge/VIEW-RESUME-778A35?style=flat-square&labelColor=0B1110" alt="Resume"/></a>
+
+---
+
+## `06 // COMMS`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/masterchiefproject">
+  <img src="https://img.shields.io/badge/LINKEDIN-DANIEL%20ADIN-A7C957?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1110" alt="LinkedIn"/>
+</a>
+<a href="mailto:adin.daniel@cs.colman.ac.il">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-C89B3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1110" alt="Email"/>
+</a>
+
+<br/><br/>
+
+```text
+> CONNECTION ESTABLISHED
+> CHANNEL SECURE
+> READY FOR THE NEXT MISSION
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1110,50:263517,100:91A94B" alt="Profile footer"/>
+
+</div>
