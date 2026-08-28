@@ -75,7 +75,22 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 - gemini
 - qwen
 
-## Game Projects
+## Public Projects
+
+### SigmaTokens
+
+Cybersecurity honeytoken platform with a central manager and endpoint agents for deploying and monitoring decoy assets, coordinating agents, and generating alerts when honeytokens are accessed.
+
+[Deploy SigmaTokens](https://github.com/SigmaTokens)  
+[View Manager Source](https://github.com/SigmaTokens/Sigma-Manager)  
+[View Agent Source](https://github.com/SigmaTokens/Sigma-Agent)
+
+### RGBQuest
+
+Unity 6 three-stage first-person puzzle adventure combining RGB cube physics, pressure-plate puzzles, portals, combat, pickups, and NavMesh-driven ghosts.
+
+[Play RGBQuest](https://masterchiefproject.github.io/RGBQuest/)  
+[View Source](https://github.com/MasterChiefProject/RGBQuest)
 
 ### KnightCookie
 
@@ -85,13 +100,6 @@ JavaScript maze adventure with hidden encounters, collectible upgrades, automati
 [Play KnightCookie](https://masterchiefproject.github.io/KnightCookie/)  
 [View Source](https://github.com/MasterChiefProject/KnightCookie)
 
-### Scrabble
-
-Java 17 Scrabble engine with multiplayer gameplay, board and scoring validation, dictionary checks, a TCP dictionary service, and a browser-playable adaptation.
-
-[Play Scrabble](https://masterchiefproject.github.io/Scrabble/)  
-[View Source](https://github.com/MasterChiefProject/Scrabble)
-
 ### Nightmaze
 
 Unity 6 first-person escape-horror game with traps, portals, moving platforms, environmental audio, and scene-based death and victory flow.
@@ -99,29 +107,19 @@ Unity 6 first-person escape-horror game with traps, portals, moving platforms, e
 [Play Nightmaze](https://masterchiefproject.github.io/Nightmaze/)  
 [View Source](https://github.com/MasterChiefProject/Nightmaze)
 
+### Scrabble
+
+Java 17 Scrabble engine with multiplayer gameplay, board and scoring validation, dictionary checks, a TCP dictionary service, and a browser-playable adaptation.
+
+[Play Scrabble](https://masterchiefproject.github.io/Scrabble/)  
+[View Source](https://github.com/MasterChiefProject/Scrabble)
+
 ### Realmaze
 
 Unity 6 first-person escape game set in a realistic outdoor maze, with collectible-driven progression, hostile zombies, gated objectives, and a WebGL-optimized browser build.
 
 [Play Realmaze](https://masterchiefproject.github.io/Realmaze/)  
 [View Source](https://github.com/MasterChiefProject/Realmaze)
-
-### RGBQuest
-
-Unity 6 three-stage first-person puzzle adventure combining RGB cube physics, pressure-plate puzzles, portals, combat, pickups, and NavMesh-driven ghosts.
-
-[Play RGBQuest](https://masterchiefproject.github.io/RGBQuest/)  
-[View Source](https://github.com/MasterChiefProject/RGBQuest)
-
-## Cyber Projects
-
-### SigmaTokens
-
-Cybersecurity honeytoken platform with a central manager and endpoint agents for deploying and monitoring decoy assets, coordinating agents, and generating alerts when honeytokens are accessed.
-
-[Deploy SigmaTokens](https://github.com/SigmaTokens)  
-[View Manager Source](https://github.com/SigmaTokens/Sigma-Manager)  
-[View Agent Source](https://github.com/SigmaTokens/Sigma-Agent)
 
 ## Education
 
