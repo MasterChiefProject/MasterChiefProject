@@ -188,38 +188,70 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 
 ---
 
-## `05 // EDUCATION RECORD`
+## `05 // EDUCATION & RECORDS`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=A7C957&center=true&vCenter=true&width=820&lines=ACADEMIC+RECORD+%2F%2F+VERIFIED;B.SC.+COMPUTER+SCIENCE+%2F%2F+CLASS+OF+2026;COLLEGE+OF+MANAGEMENT+ACADEMIC+STUDIES" alt="Animated education record"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2450&pause=850&color=A7C957&center=true&vCenter=true&width=900&lines=ACADEMIC+RECORD+%2F%2F+DOCUMENTED;B.SC.+COMPUTER+SCIENCE+%2F%2F+COMPLETED+2026;FULL+ISRAELI+BAGRUT+%2F%2F+COMPLETED+2019;TECHNICAL+RESUME+%2F%2F+AVAILABLE" alt="Animated education and document record"/>
 
 <br/>
 
 <table>
 <tr>
-<td align="center" width="33%">
-<sub>DEGREE</sub><br/>
+<td align="center" width="28%">
+<sub>CREDENTIAL</sub><br/>
 <strong>B.Sc. Computer Science</strong>
 </td>
-<td align="center" width="34%">
+<td align="center" width="24%">
 <sub>INSTITUTION</sub><br/>
 <strong>Colman</strong>
 </td>
-<td align="center" width="33%">
-<sub>GRADUATED</sub><br/>
+<td align="center" width="16%">
+<sub>COMPLETED</sub><br/>
 <strong>2026</strong>
+</td>
+<td align="center" width="32%">
+<sub>DOCUMENTS</sub><br/><br/>
+<a href="docs/computer_science_bsc_degree_certificate.pdf">
+  <img src="https://img.shields.io/badge/CERTIFICATE-A7C957?style=flat-square&labelColor=0B1110" alt="B.Sc. degree certificate"/>
+</a>
+<a href="docs/computer_science_bsc_degree_record_of_studies.pdf">
+  <img src="https://img.shields.io/badge/RECORD%20OF%20STUDIES-778A35?style=flat-square&labelColor=0B1110" alt="B.Sc. record of studies"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="28%">
+<sub>CREDENTIAL</sub><br/>
+<strong>Full Israeli Bagrut</strong>
+</td>
+<td align="center" width="24%">
+<sub>TRACK</sub><br/>
+<strong>Technology / Science</strong>
+</td>
+<td align="center" width="16%">
+<sub>COMPLETED</sub><br/>
+<strong>2019</strong>
+</td>
+<td align="center" width="32%">
+<sub>DOCUMENTS</sub><br/><br/>
+<a href="docs/bagrut_certificate.pdf">
+  <img src="https://img.shields.io/badge/CERTIFICATE-A7C957?style=flat-square&labelColor=0B1110" alt="Bagrut certificate"/>
+</a>
+<a href="docs/bagrut_record_of_studies.pdf">
+  <img src="https://img.shields.io/badge/RECORD%20OF%20STUDIES-778A35?style=flat-square&labelColor=0B1110" alt="Bagrut record of studies"/>
+</a>
 </td>
 </tr>
 </table>
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/masterchiefproject">
-  <img src="https://img.shields.io/badge/VIEW-DEGREE%20CERTIFICATE-A7C957?style=for-the-badge&labelColor=0B1110" alt="Degree certificate"/>
-</a>
-<a href="https://www.linkedin.com/in/masterchiefproject">
-  <img src="https://img.shields.io/badge/VIEW-RESUME-778A35?style=for-the-badge&labelColor=0B1110" alt="Resume"/>
+<sub>PROFESSIONAL DOCUMENT</sub><br/><br/>
+
+<a href="docs/daniel_adin_resume.pdf">
+  <img src="https://img.shields.io/badge/VIEW-TECHNICAL%20RESUME-C89B3C?style=for-the-badge&labelColor=0B1110" alt="Daniel Adin technical resume"/>
 </a>
 
 </div>
