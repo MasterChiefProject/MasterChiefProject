@@ -107,19 +107,19 @@ Unity 6 first-person escape-horror game with traps, portals, moving platforms, e
 [Play Nightmaze](https://masterchiefproject.github.io/Nightmaze/)  
 [View Source](https://github.com/MasterChiefProject/Nightmaze)
 
-### Scrabble
-
-Java 17 Scrabble engine with multiplayer gameplay, board and scoring validation, dictionary checks, a TCP dictionary service, and a browser-playable adaptation.
-
-[Play Scrabble](https://masterchiefproject.github.io/Scrabble/)  
-[View Source](https://github.com/MasterChiefProject/Scrabble)
-
 ### Realmaze
 
 Unity 6 first-person escape game set in a realistic outdoor maze, with collectible-driven progression, hostile zombies, gated objectives, and a WebGL-optimized browser build.
 
 [Play Realmaze](https://masterchiefproject.github.io/Realmaze/)  
 [View Source](https://github.com/MasterChiefProject/Realmaze)
+
+### Scrabble
+
+Java 17 Scrabble engine with multiplayer gameplay, board and scoring validation, dictionary checks, a TCP dictionary service, and a browser-playable adaptation.
+
+[Play Scrabble](https://masterchiefproject.github.io/Scrabble/)  
+[View Source](https://github.com/MasterChiefProject/Scrabble)
 
 ## Education
 
