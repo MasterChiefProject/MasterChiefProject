@@ -81,7 +81,7 @@ I enjoy working on problems involving architecture, debugging, performance, reve
 
 Cybersecurity honeytoken platform with a central manager and endpoint agents for deploying and monitoring decoy assets, coordinating agents, and generating alerts when honeytokens are accessed.
 
-[Deploy SigmaTokens](https://github.com/SigmaTokens)  
+[Follow SigmaTokens](https://github.com/SigmaTokens)  
 [View Manager Source](https://github.com/SigmaTokens/Sigma-Manager)  
 [View Agent Source](https://github.com/SigmaTokens/Sigma-Agent)
 
@@ -120,6 +120,14 @@ Java 17 Scrabble engine with multiplayer gameplay, board and scoring validation,
 
 [Play Scrabble](https://masterchiefproject.github.io/Scrabble/)  
 [View Source](https://github.com/MasterChiefProject/Scrabble)
+
+## Private Projects
+
+### MasterCheats
+
+MasterCheats is a modding project which creates fun mod menus and private servers for video games.
+
+[Follow MasterCheats](https://github.com/Master-Cheats)  
 
 ## Education
 
