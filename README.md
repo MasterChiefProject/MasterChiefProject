@@ -82,7 +82,7 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ SigmaTokens</h3>
+<h3>SigmaTokens</h3>
 <p><strong>CYBER // HONEYTOKEN DEFENSE PLATFORM</strong></p>
 <p>Central manager and endpoint-agent system for deploying and monitoring decoy assets, coordinating agents, and generating alerts when honeytokens are accessed.</p>
 
@@ -93,7 +93,7 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 </td>
 <td width="50%" valign="top">
 
-<h3>🟩 RGBQuest</h3>
+<h3>RGBQuest</h3>
 <p><strong>UNITY // FIRST-PERSON PUZZLE ADVENTURE</strong></p>
 <p>Three-stage Unity 6 adventure combining RGB cube physics, pressure-plate puzzles, portals, combat, pickups, and NavMesh-driven ghosts.</p>
 
@@ -106,7 +106,7 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 <tr>
 <td width="50%" valign="top">
 
-<h3>🍪 KnightCookie</h3>
+<h3>KnightCookie</h3>
 <p><strong>JAVASCRIPT // DETERMINISTIC MAZE ADVENTURE</strong></p>
 <p>Hidden encounters, collectible upgrades, automatic combat, deterministic game logic, persistent browser saves, and automated rules testing.</p>
 
@@ -117,7 +117,7 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 </td>
 <td width="50%" valign="top">
 
-<h3>🌑 Nightmaze</h3>
+<h3>Nightmaze</h3>
 <p><strong>UNITY // ESCAPE HORROR</strong></p>
 <p>First-person escape-horror game with traps, portals, moving platforms, environmental audio, and scene-based death and victory flow.</p>
 
@@ -130,7 +130,7 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧭 Realmaze</h3>
+<h3>Realmaze</h3>
 <p><strong>UNITY // EXPLORATION &amp; ESCAPE</strong></p>
 <p>First-person outdoor maze with collectible-driven progression, hostile zombies, gated objectives, and a performance-tuned WebGL deployment.</p>
 
@@ -140,7 +140,7 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 </td>
 <td width="50%" valign="top">
 
-<h3>🔤 Scrabble</h3>
+<h3>Scrabble</h3>
 <p><strong>JAVA // MULTIPLAYER WORD ENGINE</strong></p>
 <p>Java 17 Scrabble engine with multiplayer rules, board and scoring validation, dictionary checks, a TCP dictionary service, and a browser-playable adaptation.</p>
 
@@ -190,14 +190,39 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 
 ## `05 // EDUCATION RECORD`
 
-```text
-DEGREE       B.Sc. Computer Science
-INSTITUTION  College of Management Academic Studies (Colman)
-GRADUATED    2026
-```
+<div align="center">
 
-<a href="https://www.linkedin.com/in/masterchiefproject"><img src="https://img.shields.io/badge/DEGREE-CERTIFICATE-A7C957?style=flat-square&labelColor=0B1110" alt="Degree certificate"/></a>
-<a href="https://www.linkedin.com/in/masterchiefproject"><img src="https://img.shields.io/badge/VIEW-RESUME-778A35?style=flat-square&labelColor=0B1110" alt="Resume"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=A7C957&center=true&vCenter=true&width=820&lines=ACADEMIC+RECORD+%2F%2F+VERIFIED;B.SC.+COMPUTER+SCIENCE+%2F%2F+CLASS+OF+2026;COLLEGE+OF+MANAGEMENT+ACADEMIC+STUDIES" alt="Animated education record"/>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<sub>DEGREE</sub><br/>
+<strong>B.Sc. Computer Science</strong>
+</td>
+<td align="center" width="34%">
+<sub>INSTITUTION</sub><br/>
+<strong>Colman</strong>
+</td>
+<td align="center" width="33%">
+<sub>GRADUATED</sub><br/>
+<strong>2026</strong>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/masterchiefproject">
+  <img src="https://img.shields.io/badge/VIEW-DEGREE%20CERTIFICATE-A7C957?style=for-the-badge&labelColor=0B1110" alt="Degree certificate"/>
+</a>
+<a href="https://www.linkedin.com/in/masterchiefproject">
+  <img src="https://img.shields.io/badge/VIEW-RESUME-778A35?style=for-the-badge&labelColor=0B1110" alt="Resume"/>
+</a>
+
+</div>
 
 ---
 
@@ -205,20 +230,32 @@ GRADUATED    2026
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=850&color=A7C957&center=true&vCenter=true&width=820&lines=COMMUNICATION+LINK+%2F%2F+ONLINE;PROFESSIONAL+CHANNEL+%2F%2F+LINKEDIN;DIRECT+CHANNEL+%2F%2F+EMAIL" alt="Animated communication status"/>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<sub>PROFESSIONAL CHANNEL</sub><br/><br/>
 <a href="https://www.linkedin.com/in/masterchiefproject">
   <img src="https://img.shields.io/badge/LINKEDIN-DANIEL%20ADIN-A7C957?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1110" alt="LinkedIn"/>
 </a>
+</td>
+<td align="center" width="50%">
+<sub>DIRECT CHANNEL</sub><br/><br/>
 <a href="mailto:adin.daniel@cs.colman.ac.il">
   <img src="https://img.shields.io/badge/EMAIL-CONTACT-C89B3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1110" alt="Email"/>
 </a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LINK%20STATUS-AVAILABLE-A7C957?style=flat-square&labelColor=0B1110" alt="Communication link available"/>
 
 <br/><br/>
-
-```text
-> CONNECTION ESTABLISHED
-> CHANNEL SECURE
-> READY FOR THE NEXT MISSION
-```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1110,50:263517,100:91A94B" alt="Profile footer"/>
 
