@@ -46,8 +46,10 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 ### Engineering Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,unity,unreal,godot,blender&theme=dark" alt="Engineering platforms"/>
-<br/>
+
 </div>
+
+<br/>
 
 <details>
 
