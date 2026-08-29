@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-
+<img width="100%" src="assets/profile-header.gif" alt="Daniel Adin profile header with waving Israeli flag"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0B1110,45:263517,100:91A94B&text=DANIEL%20ADIN&fontColor=A7C957&fontSize=48&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20GAME%20DEVELOPER%20%7C%20CYBERSECURITY&descAlignY=61&descSize=15&animation=fadeIn" alt="Daniel Adin profile header"/>
 
 <a href="https://github.com/MasterChiefProject">
@@ -192,7 +192,7 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2450&pause=850&color=A7C957&center=true&vCenter=true&width=900&lines=ACADEMIC+RECORD+%2F%2F+DOCUMENTED;B.SC.+COMPUTER+SCIENCE+%2F%2F+COMPLETED+2026;FULL+ISRAELI+BAGRUT+%2F%2F+COMPLETED+2019;TECHNICAL+RESUME+%2F%2F+AVAILABLE" alt="Animated education and document record"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2450&pause=850&color=A7C957&center=true&vCenter=true&width=900&lines=ACADEMIC+%26+SERVICE+RECORDS+%2F%2F+DOCUMENTED;B.SC.+COMPUTER+SCIENCE+%2F%2F+COMPLETED+2026;IDF+MILITARY+SERVICE+%2F%2F+HONORABLE+DISCHARGE;FULL+ISRAELI+BAGRUT+%2F%2F+COMPLETED+2019;TECHNICAL+RESUME+%2F%2F+AVAILABLE" alt="Animated education, service, and document record"/>
 
 <br/>
 
@@ -217,6 +217,27 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 </a>
 <a href="docs/computer_science_bsc_degree_record_of_studies.pdf">
   <img src="https://img.shields.io/badge/RECORD%20OF%20STUDIES-778A35?style=flat-square&labelColor=0B1110" alt="B.Sc. record of studies"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="28%">
+<sub>SERVICE RECORD</sub><br/>
+<strong>Israel Defense Forces</strong>
+</td>
+<td align="center" width="24%">
+<sub>SERVICE</sub><br/>
+<strong>Military Service</strong>
+</td>
+<td align="center" width="16%">
+<sub>STATUS</sub><br/>
+<strong>Honorable Discharge</strong>
+</td>
+<td align="center" width="32%">
+<sub>DOCUMENT</sub><br/><br/>
+<a href="docs/idf_certificate_of_honorable_discharge.pdf">
+  <img src="https://img.shields.io/badge/VIEW-SERVICE%20CERTIFICATE-0038B8?style=flat-square&labelColor=0B1110" alt="IDF certificate of honorable discharge"/>
 </a>
 </td>
 </tr>
