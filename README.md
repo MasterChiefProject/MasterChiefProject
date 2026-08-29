@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/B.Sc.-COMPUTER%20SCIENCE-A7C957?style=for-the-badge&labelColor=0B1110" alt="B.Sc. Computer Science"/>
 <img src="https://komarev.com/ghpvc/?username=MasterChiefProject&style=for-the-badge&color=556B2F&label=HUD+SCANS" alt="Profile views"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=A7C957&center=true&vCenter=true&width=900&lines=SYSTEMS+PROGRAMMING+%2F%2F+CYBERSECURITY;GAME+ENGINEERING+%2F%2F+LOW-LEVEL+SOFTWARE;REVERSE+ENGINEERING+%2F%2F+WINDOWS+INTERNALS;ARCHITECTURE+%2F%2F+DEBUGGING+%2F%2F+PERFORMANCE" alt="Animated engineering focus"/>
 
