@@ -50,6 +50,7 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 </div>
 
 <details>
+<br/>
 <summary><b>CYBER / REVERSE-ENGINEERING TOOLCHAIN</b></summary>
 <br/>
 
