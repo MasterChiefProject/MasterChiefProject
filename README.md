@@ -41,7 +41,7 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,cs,py,java,js&theme=dark" alt="Programming languages"/>
 
-<br/><br/>
+<br/>
 
 ### Engineering Platforms
 
