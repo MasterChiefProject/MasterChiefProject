@@ -236,7 +236,7 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 <td align="center" width="32%">
 <sub>DOCUMENT</sub><br/><br/>
 <a href="docs/idf_certificate_of_honorable_discharge.pdf">
-  <img src="https://img.shields.io/badge/VIEW-SERVICE%20CERTIFICATE-A7C957?style=flat-square&labelColor=0B1110" alt="IDF certificate of honorable discharge"/>
+  <img src="https://img.shields.io/badge/SERVICE%20CERTIFICATE-A7C957?style=flat-square&labelColor=0B1110" alt="IDF certificate of honorable discharge"/>
 </a>
 </td>
 </tr>
