@@ -194,7 +194,7 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2450&pause=850&color=A7C957&center=true&vCenter=true&width=900&lines=ACADEMIC+%26+SERVICE+RECORDS+%2F%2F+DOCUMENTED;B.SC.+COMPUTER+SCIENCE+%2F%2F+COMPLETED+2026;IDF+MILITARY+SERVICE+%2F%2F+HONORABLE+DISCHARGE;FULL+ISRAELI+BAGRUT+%2F%2F+COMPLETED+2019;TECHNOLOGICAL+CERTIFICATE+%2F%2F+DOCUMENTED;TECHNICAL+RESUME+%2F%2F+AVAILABLE" alt="Animated education, service, and document record"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2450&pause=850&color=A7C957&center=true&vCenter=true&width=900&lines=ACADEMIC+%26+SERVICE+RECORDS+%2F%2F+DOCUMENTED;B.SC.+COMPUTER+SCIENCE+%2F%2F+COMPLETED+2026;IDF+MILITARY+SERVICE+%2F%2F+HONORABLE+DISCHARGE;FULL+ISRAELI+BAGRUT+%2F%2F+COMPLETED+2019;TECHNOLOGICAL+CERTIFICATE+%2F%2F+COMPLETED+2019;TECHNICAL+RESUME+%2F%2F+AVAILABLE" alt="Animated education, service, and document record"/>
 
 <br/>
 
@@ -275,16 +275,16 @@ My work spans **systems programming, cybersecurity, game development, reverse en
 </td>
 <td align="center" width="24%">
 <sub>TRACK</sub><br/>
-<strong>Technology</strong>
+<strong>Technology / Science</strong>
 </td>
 <td align="center" width="16%">
-<sub>STATUS</sub><br/>
-<strong>Documented</strong>
+<sub>COMPLETED</sub><br/>
+<strong>2019</strong>
 </td>
 <td align="center" width="32%">
 <sub>DOCUMENT</sub><br/><br/>
 <a href="docs/technological_certificate.pdf">
-  <img src="https://img.shields.io/badge/TECHNOLOGICAL%20CERTIFICATE-C94C4C?style=flat-square&labelColor=0B1110" alt="Technological certificate"/>
+  <img src="https://img.shields.io/badge/CERTIFICATE-A7C957?style=flat-square&labelColor=0B1110" alt="Technological certificate"/>
 </a>
 </td>
 </tr>
